@@ -75,3 +75,6 @@ docs/source/api_docs/
 
 # Vagrant files
 .vagrant
+
+# Ctags
+tags
